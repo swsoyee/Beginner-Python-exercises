@@ -61,3 +61,9 @@ while check_status[0]:
     print(fibo_generate(check_status[1]))
     # A new turn
     check_status = get_input()
+
+# Test Part
+# How many Fibonnaci numbers do you want to generate?5
+# [1, 1, 2, 3, 5]
+# How many Fibonnaci numbers do you want to generate?10
+# [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
