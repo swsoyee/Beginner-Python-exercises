@@ -8,5 +8,6 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [05. List Overlap](http://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html)  
 [06. String Lists](http://www.practicepython.org/exercise/2014/03/12/06-string-lists.html)  
 [07. List Comprehensions](http://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html)  
-[08. Rock Paper Scissors](http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html)  
+[08. Rock Paper Scissors](http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html)  
 [09. Guessing Game One](http://www.practicepython.org/exercise/2014/04/02/09-guessing-game-one.html)  
+[10. List Overlap Comprehensions](http://www.practicepython.org/exercise/2014/04/10/10-list-overlap-comprehensions.html)  
