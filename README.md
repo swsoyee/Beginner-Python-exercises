@@ -6,3 +6,4 @@ Solution of [PRACTICE PYTHON](http://www.practicepython.org/)
 [03. List Less Than Ten](http://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html)  
 [04. Divisor](http://www.practicepython.org/exercise/2014/02/26/04-divisors.html)  
 [05. List Overlap](http://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html)  
+[06. String Lists](http://www.practicepython.org/exercise/2014/03/12/06-string-lists.html)  
