@@ -18,3 +18,4 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [15. Reverse Word Order](http://www.practicepython.org/solution/2014/05/28/15-reverse-word-order-solutions.html)  
 [16. Password Generator](http://www.practicepython.org/solution/2014/06/06/16-password-generator-solutions.html)  
 
+[18. Cows And Bulls](http://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html)  
