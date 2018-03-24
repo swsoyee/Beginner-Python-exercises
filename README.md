@@ -19,3 +19,5 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [16. Password Generator](http://www.practicepython.org/solution/2014/06/06/16-password-generator-solutions.html)  
 
 [18. Cows And Bulls](http://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html)  
+
+[20. Element Search](http://www.practicepython.org/exercise/2014/11/11/20-element-search.html)  
