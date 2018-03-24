@@ -21,3 +21,5 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [18. Cows And Bulls](http://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html)  
 
 [20. Element Search](http://www.practicepython.org/exercise/2014/11/11/20-element-search.html)  
+[21. Write To A File](http://www.practicepython.org/exercise/2014/11/30/21-write-to-a-file.html)  
+[22. Read From File](http://www.practicepython.org/exercise/2014/12/06/22-read-from-file.html)  
