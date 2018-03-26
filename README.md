@@ -27,5 +27,5 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [24. Draw A Game Board](http://www.practicepython.org/exercise/2014/12/27/24-draw-a-game-board.html)  
 [25.  
 [26. Check Tic Tac Toe](http://www.practicepython.org/exercise/2015/11/16/26-check-tic-tac-toe.html)  
-[27.  
-[28 . Max Of Three](http://www.practicepython.org/exercise/2016/03/27/28-max-of-three.html)  
+[27. Tic Tac Toe Draw](http://www.practicepython.org/exercise/2015/11/26/27-tic-tac-toe-draw.html)  
+[28. Max Of Three](http://www.practicepython.org/exercise/2016/03/27/28-max-of-three.html)  
