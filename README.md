@@ -23,9 +23,9 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [20. Element Search](http://www.practicepython.org/exercise/2014/11/11/20-element-search.html)  
 [21. Write To A File](http://www.practicepython.org/exercise/2014/11/30/21-write-to-a-file.html)  
 [22. Read From File](http://www.practicepython.org/exercise/2014/12/06/22-read-from-file.html)  
-[23.  
+[23.  ]()  
 [24. Draw A Game Board](http://www.practicepython.org/exercise/2014/12/27/24-draw-a-game-board.html): Tic Tac Toe Game series 1.  
-[25.  
+[25.  ]()  
 [26. Check Tic Tac Toe](http://www.practicepython.org/exercise/2015/11/16/26-check-tic-tac-toe.html): Tic Tac Toe Game series 2.  
 [27. Tic Tac Toe Draw](http://www.practicepython.org/exercise/2015/11/26/27-tic-tac-toe-draw.html): Tic Tac Toe Game series 3.  
 [28. Max Of Three](http://www.practicepython.org/exercise/2016/03/27/28-max-of-three.html)  
