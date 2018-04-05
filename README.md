@@ -31,7 +31,7 @@ My solutions of [PRACTICE PYTHON](http://www.practicepython.org/)
 [28. Max Of Three](http://www.practicepython.org/exercise/2016/03/27/28-max-of-three.html)  
 [29. Tic Tac Toe Game](http://www.practicepython.org/exercise/2016/08/03/29-tic-tac-toe-game.html): Tic Tac Toe Game series 4 (final). Unfinished, but I have improved the game to N-in-line (N can be 3, 4, 5 or more) to win the game in a X (X >= N) large size game board. Enjoy!
 [30. ]()  
-[31. ]()  
+[31. Guess Letters](http://www.practicepython.org/exercise/2017/01/02/31-guess-letters.html)  
 [32. ]()  
 [33. Birthday Dictionaries](http://www.practicepython.org/exercise/2017/01/24/33-birthday-dictionaries.html)  
 [34. ]()  
